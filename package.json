@@ -1,0 +1,16 @@
+
+{
+  "name": "catalogo-times",
+  "version": "1.0.0",
+  "description": "Catalogo de times de futebol com Node.js, Express e EJS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
+
